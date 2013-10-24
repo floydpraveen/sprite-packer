@@ -1,6 +1,7 @@
 {
   "devDependencies": {
     "grunt": "0.4.1",
-    "grunt-sprite-packer": "~0.1.5"
+    "grunt-sprite-packer": "~0.1.5",
+    "grunt-contrib-imagemin": "~0.3.0"
   }
 }

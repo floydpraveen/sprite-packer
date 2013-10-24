@@ -1,7 +1,7 @@
 sprite-packer
 =============
 
-pack your images into a single sprite sheet and also create a css file with image details
+pack your images into a single sprite sheet, create a css file with image details and compress the size of the image file
 
 
 This uses [ grunt-sprite-packer ](https://npmjs.org/package/grunt-sprite-packer) and [ ImageMagick ](http://www.imagemagick.org/script/index.php).
